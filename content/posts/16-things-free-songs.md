@@ -1,20 +1,36 @@
 ---
-title: "16 things that won't happen in free songs"
-description: "Why country music festivals will change your life."
-date: 2018-12-17T22:21:42+01:00
-publishDate: 2018-12-19T22:21:42+01:00
-author: "John Doe"
+title: "Guia de cuidados após a cirurgia de implante dentário"
+description: "Saiba como garantir uma cicatrização tranquila e proteger o seu novo implante nas primeiras semanas."
+date: 2024-02-15T09:00:00-03:00
+publishDate: 2024-02-15T09:00:00-03:00
+author: "Equipe Dra. Ana Paula Carneiro"
 images: []
 draft: false
-tags: ["music", "songs" , "free"]
+tags: ["implantes", "cuidados", "reabilitacao-oral"]
 ---
 
-5 ways country song ringtones can make you rich. [Why country music festivals will change your life](#). The unconventional guide to music notes. Why our world would end if music videos disappeared. 8 insane (but true) things about top country songs. How twitter can teach you about popular songs. 13 facts about latin music videos that'll keep you up at night. Why do people think free dances are a good idea? Why your free song never works out the way you plan. The 6 best music video youtube videos.
+Recebeu um implante dentário recentemente? As próximas semanas são decisivas para o sucesso do tratamento. Selecionamos as orientações que compartilhamos com os pacientes da clínica para ajudar você a ter uma recuperação tranquila e segura.
 
-> "The unconventional guide to piano stores. Why concert events should be 1 of the 7 deadly sins".
+## Nas primeiras 24 horas
+- Mantenha o curativo compressivo conforme orientação e evite bochechar com força.
+- Aplique compressas frias externas de 20 em 20 minutos para minimizar o inchaço.
+- Prefira alimentos líquidos ou pastosos, em temperatura fria ou ambiente.
+- Tome a medicação prescrita nos horários indicados, mesmo sem dor.
 
-How free dances are making the world a better place. 7 least favorite music videos. 7 ways live shows could leave you needing a lawyer. 11 great articles about popular songs. [7 movies with unbelievable scenes about free songs](#). If you read one article about billboard music awards read this one. 18 ways latin music videos could leave you needing a lawyer. How best rock songs can help you live a better life. The 17 best country music festival twitter feeds to follow. Expose: you're losing money by not using top country songs.
+## Entre o 2º e o 7º dia
+- Higienize os dentes normalmente, escovando com movimentos suaves e evitando a região operada.
+- Use escova cirúrgica e irrigador com solução antisséptica recomendada pela equipe.
+- Não consuma bebidas alcoólicas e evite fumar; essas substâncias prejudicam a cicatrização.
+- Durma com a cabeça levemente elevada e continue com a alimentação pastosa ou macia.
 
-[How jazz coffee bars can help you predict the future](#). What wikipedia can't tell you about music festivals. 10 bs facts about rock bands everyone thinks are true. What the world would be like if summer music festivals didn't exist. How hollywood got latin music videos all wrong. Why pop music books are on crack about pop music books. The evolution of top country songs. How not knowing pop music books makes you a rookie. Why do people think concert tickets are a good idea? How twitter can teach you about jazz coffee bars.
+## A partir da segunda semana
+- Inclua alimentos mais firmes gradativamente, sempre mastigando do lado oposto ao implante.
+- Retorne à prática de exercícios físicos apenas após liberação do cirurgião.
+- Observe sinais como dor intensa, sangramento persistente ou mau odor e comunique-nos imediatamente caso ocorram.
 
-6 ways top country songs can make you rich. [7 facts about summer music festivals that'll keep you up at night](#). 8 problems with free dances. What everyone is saying about music festivals. Free songs by the numbers. Why concert tickets are on crack about concert tickets. 9 problems with live shows. Why popular songs are on crack about popular songs. The unconventional guide to piano stores. Why concert events should be 1 of the 7 deadly sins.
+## Dicas extras para o longo prazo
+- Compareça às consultas de revisão para acompanhamento radiográfico e torque do implante.
+- Utilize placa de bruxismo se houver apertamento noturno.
+- Mantenha sessões de profilaxia a cada seis meses para controlar placa bacteriana.
+
+Seguindo esses cuidados, você protege o investimento realizado e acelera a integração óssea do implante. Em caso de qualquer desconforto fora do comum, nossa equipe está à disposição pelo WhatsApp para orientar você.

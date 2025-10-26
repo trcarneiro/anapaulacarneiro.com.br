@@ -1,18 +1,35 @@
 ---
-title: "About"
-description: ""
+title: "Sobre"
+description: "Conheça a trajetória, a formação e a filosofia de cuidado da Dra. Ana Paula Carneiro."
 images: []
 draft: false
 menu: main
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam. Sapien nec sagittis aliquam malesuada bibendum. Velit dignissim sodales ut eu sem integer vitae justo. Vulputate sapien nec sagittis aliquam malesuada bibendum. Eu ultrices vitae auctor eu augue ut. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Mauris in aliquam sem fringilla. Sed faucibus turpis in eu mi bibendum. Nunc consequat interdum varius sit amet mattis vulputate enim. Tincidunt praesent semper feugiat nibh sed pulvinar. Curabitur vitae nunc sed velit dignissim sodales ut eu sem. Arcu odio ut sem nulla pharetra diam sit amet. Vitae justo eget magna fermentum iaculis. Sit amet consectetur adipiscing elit ut aliquam. Suspendisse sed nisi lacus sed viverra tellus in hac. Arcu felis bibendum ut tristique et egestas. Egestas pretium aenean pharetra magna ac placerat vestibulum. Tempus egestas sed sed risus pretium quam vulputate.
+## Compromisso com a odontologia integrada e humana
 
-Quam nulla porttitor massa id neque. Convallis convallis tellus id interdum velit laoreet id donec ultrices. In mollis nunc sed id semper risus in. Id nibh tortor id aliquet. Amet mattis vulputate enim nulla aliquet porttitor lacus. Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Facilisis mauris sit amet massa vitae tortor. Massa placerat duis ultricies lacus sed. Lectus sit amet est placerat in egestas erat imperdiet. Tempus egestas sed sed risus. Congue eu consequat ac felis donec et odio pellentesque diam. Volutpat lacus laoreet non curabitur gravida arcu. Tortor dignissim convallis aenean et tortor. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum arcu. Sit amet luctus venenatis lectus magna fringilla urna porttitor.
+A **Dra. Ana Paula Carneiro** é cirurgiã-dentista formada pela Universidade Federal do Ceará (UFC), com pós-graduação em Reabilitação Oral e Estética Avançada. São mais de 12 anos dedicados a transformar sorrisos, unindo ciência, tecnologia e um olhar acolhedor para cada paciente.
 
-Elementum pulvinar etiam non quam. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Dui ut ornare lectus sit. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Venenatis cras sed felis eget velit. Lectus mauris ultrices eros in cursus turpis massa tincidunt dui. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Sed odio morbi quis commodo odio aenean. Adipiscing at in tellus integer feugiat scelerisque varius. Massa sapien faucibus et molestie ac feugiat sed. Dolor purus non enim praesent elementum facilisis. Vitae suscipit tellus mauris a diam maecenas. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Vitae et leo duis ut diam quam. Lectus quam id leo in vitae turpis. Vitae ultricies leo integer malesuada nunc.
+### Formação e especializações
+- Graduação em Odontologia – Universidade Federal do Ceará (UFC)
+- Especialização em Reabilitação Oral e Prótese Dentária
+- Cursos avançados em alinhadores transparentes, cirurgia guiada e harmonização orofacial
+- Participação ativa em congressos nacionais e internacionais de odontologia estética
 
-Ornare lectus sit amet est placerat in egestas erat. Massa vitae tortor condimentum lacinia quis vel. Ornare massa eget egestas purus. Varius quam quisque id diam vel quam. Convallis tellus id interdum velit. Aenean pharetra magna ac placerat vestibulum. Vitae congue eu consequat ac felis donec et. Dignissim suspendisse in est ante in nibh mauris. Lobortis scelerisque fermentum dui faucibus in ornare. At urna condimentum mattis pellentesque id nibh tortor id. Purus non enim praesent elementum facilisis leo vel. Rutrum quisque non tellus orci ac auctor augue mauris. Eget arcu dictum varius duis at consectetur lorem. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Quam pellentesque nec nam aliquam sem. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Ante in nibh mauris cursus. At risus viverra adipiscing at in tellus.
+### Filosofia de atendimento
+1. **Diagnosticar antes de tratar:** cada plano terapêutico começa com uma avaliação completa da saúde bucal e sistêmica do paciente.
+2. **Educar para prevenir:** investimos tempo em orientações claras sobre hábitos, higiene e nutrição para preservar os resultados a longo prazo.
+3. **Cuidar com empatia:** acolhemos medos e inseguranças para que a experiência no consultório seja leve, transparente e sem surpresas.
 
-Duis at tellus at urna condimentum. Felis bibendum ut tristique et egestas quis. Diam vel quam elementum pulvinar etiam non quam lacus suspendisse. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Congue eu consequat ac felis donec et. Mattis pellentesque id nibh tortor id aliquet lectus proin. Interdum varius sit amet mattis vulputate enim nulla. Aenean et tortor at risus viverra adipiscing at in. Diam volutpat commodo sed egestas egestas. Nulla pharetra diam sit amet nisl. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla. Augue interdum velit euismod in pellentesque massa. Tempus egestas sed sed risus. Id semper risus in hendrerit gravida rutrum quisque non. Cras ornare arcu dui vivamus arcu felis bibendum ut. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Volutpat diam ut venenatis tellus in metus.
+### Estrutura pensada para o seu bem-estar
+- Consultórios equipados com monitoramento digital, raio X panorâmico e scanner intraoral
+- Sala de esterilização com protocolos rigorosos de biossegurança
+- Espaço kids para acolher as crianças durante o atendimento dos pais
+
+### Participações e reconhecimentos
+- Membro da Associação Brasileira de Odontologia Estética (ABOE)
+- Palestrante convidada em jornadas acadêmicas e cursos de atualização
+- Destaque em publicações regionais pela atuação em tratamentos de reabilitação oral
+
+A nossa missão é devolver qualidade de vida, funcionalidade e autoestima através de um sorriso saudável. Estamos prontos para receber você em Fortaleza e construir, juntos, um plano de cuidado sob medida.

@@ -1,24 +1,36 @@
 ---
-title: "How game websites can help you live a better life"
-description: "The 6 best dish review twitter feeds to follow."
-date: 2018-12-19T22:32:19+01:00
-publishDate: 2018-12-19T22:21:42+01:00
-author: "John Doe"
-images: []
+title: "Alinhadores invisíveis: quando indicar e como é o tratamento"
+description: "Descubra para quem os alinhadores transparentes são recomendados e quais cuidados garantem o sucesso da terapia."
+date: 2024-03-05T14:00:00-03:00
+publishDate: 2024-03-05T14:00:00-03:00
+author: "Dra. Ana Paula Carneiro"
+images: ["./images/alinhadores-sorriso.jpg"]
 draft: false
-tags: ["health", "cooking"]
+tags: ["alinhadores", "ortodontia", "estetica"]
 ---
 
-[How to cheat at dish reviews and get away with it](#). The 6 best dish review twitter feeds to follow. The best ways to utilize minute meals. The best ways to utilize safe food handling tips. The best ways to utilize safe food handling tips. 17 facts about food processors that will impress your friends. How cooking healthy food is making the world a better place. Why you'll never succeed at healthy eating facts. 16 things you don't want to hear about chefs. 9 uses for mexican food.
+Os alinhadores transparentes se tornaram uma alternativa desejada por pacientes que buscam discrição e conforto durante o tratamento ortodôntico. A seguir, respondemos às principais dúvidas que chegam ao consultório.
 
-![Dummy image.](./images/dummy-image.jpg)
+![Paciente utilizando alinhadores transparentes em consultório.](./images/alinhadores-sorriso.jpg)
 
-The unconventional guide to chicken dishes. Why food networks beat peanut butter on pancakes. How fast food isn't as bad as you think. If you read one article about restaurant weeks read this one. Why delicious food is afraid of the truth. Why meatloaf recipes will make you question everything. The oddest place you will find food networks. 16 great articles about breakfast casseroles. Why the next 10 years of healthy cooking tips will smash the last 10. The 16 biggest food network blunders.
+## Para quem os alinhadores são indicados?
+- Adultos e adolescentes com boa saúde periodontal e que procuram correções discretas.
+- Casos de apinhamento leve a moderado, espaçamentos e recidivas pós-ortodontia tradicional.
+- Pacientes que desejam flexibilidade para remover o aparelho em ocasiões especiais, mantendo o comprometimento com o tempo de uso diário.
 
-{{< figure src="./images/dummy-image.jpg" title="Dummy image using Hugo shortcode." >}}
+## Como funciona o tratamento
+1. **Planejamento digital 3D:** realizamos escaneamento intraoral e fotografias para simular cada etapa do movimento dentário.
+2. **Sequência de placas personalizadas:** cada alinhador é confeccionado para uso médio de 7 a 14 dias, conforme avaliação clínica.
+3. **Acompanhamento periódico:** consultas mensais garantem ajustes, entrega de novas placas e monitoramento da higiene bucal.
 
-11 things that won't happen in minute meals. [Why mom was right about mexican food](#). 20 facts about chefs that will impress your friends. 7 uses for delicious food. How to cheat at dish reviews and get away with it. Unbelievable dish review success stories. Why your food network never works out the way you plan. Why food processors are the new black. Why our world would end if healthy lunch ideas disappeared. The 12 best resources for healthy eating facts.
+## Benefícios em destaque
+- Conforto e ausência de fios ou bráquetes que possam machucar a mucosa.
+- Facilidade de higienização dos dentes e do aparelho.
+- Previsibilidade de resultados com softwares que permitem visualizar o sorriso final antes do início.
 
-<img src="./images/dummy-image.jpg" alt="Dummy image with HTML.">
+## Cuidados essenciais
+- Utilizar os alinhadores por no mínimo 22 horas diárias.
+- Limpar as placas com escova macia e sabão neutro, evitando água quente.
+- Armazenar em estojo rígido sempre que retirar para comer ou beber bebidas quentes/coloridas.
 
-14 ways chef uniforms can make you rich. An expert interview about healthy eating facts. 17 things that won't happen in fast food. The 16 worst songs about food stamps. 20 podcasts about thai restaurants. 12 ways easy meals can make you rich. Why restaurant weeks should be 1 of the 7 deadly sins. 15 ideas you can steal from safe food handling tips. Why mexican food is the new black. Why healthy cooking tips are the new black.
+Os alinhadores invisíveis oferecem um tratamento eficaz e discreto quando aliados à disciplina do paciente e à supervisão profissional. Agende uma avaliação para saber se essa tecnologia é ideal para o seu sorriso.

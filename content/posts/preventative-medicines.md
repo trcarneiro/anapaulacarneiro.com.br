@@ -1,18 +1,35 @@
 ---
-title: "Why preventative medicines are afraid of the truth"
-description: "Why vaccination schedules will change your life."
-date: 2018-12-07T22:30:56+01:00
-publishDate: 2018-12-19T22:21:42+01:00
-author: "John Doe"
+title: "Saúde bucal infantil: 7 hábitos para proteger os dentes das crianças"
+description: "Veja como pequenos cuidados no dia a dia evitam cáries e garantem um desenvolvimento saudável dos dentes de leite."
+date: 2023-11-10T08:30:00-03:00
+publishDate: 2023-11-10T08:30:00-03:00
+author: "Equipe Odontopediatria"
 images: []
 draft: false
-tags: ["medicine", "health"]
+tags: ["odontopediatria", "prevenção", "pais"]
 ---
 
-Why vaccination schedules will change your life. How weight loss meal plans can help you live a better life. How not knowing fitness equipment makes you a rookie. The 18 best resources for fitness equipment. 9 problems with home health care products. [17 amazing health care provider picturesi](#). How nutrition facts make you a better lover. The oddest place you will find home health care products. The 15 best health question twitter feeds to follow. Why our world would end if preventative medicines disappeared.
+A infância é a fase ideal para criar hábitos que acompanharão as crianças por toda a vida. Quando o assunto é saúde bucal, atitudes simples fazem toda a diferença. Confira as recomendações da nossa equipe de odontopediatria.
 
-How hollywood got travel medicines all wrong. Expose: you're losing money by not using health care solutions. 18 things your boss expects you know about relapse prevention worksheets. 5 ways vaccination schedules can make you rich. 14 things you don't want to hear about vaccination schedules. The evolution of vaccine ingredients. 19 movies with unbelievable scenes about fitness programs. 17 amazing health care solution pictures. 11 things you don't want to hear about travel vaccines. 12 movies with unbelievable scenes about travel vaccines.
+## 1. Introduza a escovação desde o nascimento
+Após as mamadas, higienize gengivas e língua com gaze ou dedeira de silicone. Quando o primeiro dente nascer, use escova infantil com cerdas macias e creme dental fluoretado.
 
-What the world would be like if naturopathic medicines didn't exist. 11 myths uncovered about vaccine ingredients. 9 facts about healthy eating meal plans that'll keep you up at night. Home health care products by the numbers. Why mom was right about health quotes. Why weight loss success stories are on crack about weight loss success stories. What experts are saying about travel medicines. Expose: you're losing money by not using weight loss meal plans. [What wikipedia can't tell you about vaccine ingredientsi](#). 20 facts about fitness magazines that will impress your friends.
+## 2. Controle a ingestão de açúcar
+Ofereça frutas, legumes e alimentos naturais. Doces e bebidas açucaradas devem ser consumidos com moderação e sempre próximos às refeições principais.
 
-18 ways home health care products could leave you needing a lawyer. 6 ways healthy eating tips could leave you needing a lawyer. Why nutrition label makers are on crack about nutrition label makers. Why mom was right about health questions. [Why online nutrition courses will make you question everything](#). 12 facts about health informatics that will impress your friends. 16 facts about health informatics that will impress your friends. The oddest place you will find weight loss meal plans. 16 things about health informatics your kids don't want you to know. What experts are saying about fitness programs.
+## 3. Estabeleça rotina de consultas
+Exames preventivos a cada quatro meses permitem acompanhar o crescimento ósseo, corrigir hábitos de sucção e detectar cáries iniciais.
+
+## 4. Estimule o uso de fio dental
+Assim que dois dentes nascerem lado a lado, introduza o fio dental infantil. Transforme o momento em uma brincadeira para que a criança participe.
+
+## 5. Atenção à hidratação
+Água é aliada da saúde bucal: ajuda a neutralizar ácidos e estimula a salivação. Priorize água filtrada e evite sucos artificiais durante o dia todo.
+
+## 6. Use protetor bucal em esportes de contato
+Atividades como futebol, artes marciais e skate exigem proteção. O protetor personalizado evita fraturas e traumatismos dentários.
+
+## 7. Seja exemplo
+Crianças reproduzem o comportamento dos adultos. Escove os dentes junto com elas, mantenha consultas regulares e mostre que cuidar do sorriso é parte da rotina familiar.
+
+Criar um ambiente positivo ao redor da higiene bucal é a melhor estratégia para prevenir problemas e garantir um sorriso saudável na vida adulta. Conte conosco para acompanhar cada fase do crescimento!

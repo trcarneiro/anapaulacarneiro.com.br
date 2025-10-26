@@ -1,8 +1,8 @@
 ---
-title : "Simple"
+title : "Nossa abordagem"
 description: ""
 draft: false
-weight: 4
+weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Oferecemos planejamento odontológico individualizado desde a primeira consulta. Utilizamos exames de imagem digital, fotografias clínicas e escaneamento intraoral para mapear cada detalhe do seu sorriso e garantir previsibilidade nos resultados.

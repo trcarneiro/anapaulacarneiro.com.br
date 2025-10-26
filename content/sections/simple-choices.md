@@ -1,8 +1,12 @@
 ---
-title : "Simple Choices"
+title : "Tratamentos personalizados"
 description: ""
 draft: false
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Reabilitação oral e implantes para restabelecer função mastigatória e estética
+- Lentes de contato dental, facetas e clareamento supervisionado
+- Alinhadores transparentes, ortodontia interceptativa e ortodontia fixa
+- Harmonização orofacial com toxina botulínica e preenchimentos faciais
+- Odontopediatria com foco em prevenção e acompanhamento do desenvolvimento
