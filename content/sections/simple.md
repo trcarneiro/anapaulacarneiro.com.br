@@ -1,8 +1,8 @@
 ---
-title : "Simple"
+title : "Nosso método"
 description: ""
 draft: false
-weight: 4
+weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Planejamento individual para cada paciente: avaliamos saúde bucal, objetivos estéticos e rotina para indicar o tratamento ideal com previsibilidade.

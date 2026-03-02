@@ -1,8 +1,12 @@
 ---
-title : "Simple Choices"
+title : "Soluções odontológicas"
 description: ""
 draft: false
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Implantes dentários e reabilitação oral
+- Estética dental (clareamento, facetas e lentes)
+- Alinhadores transparentes
+- Odontopediatria preventiva
+- Harmonização orofacial

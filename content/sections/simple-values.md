@@ -1,8 +1,10 @@
 ---
-title : "Simple Values"
+title : "Compromissos da clínica"
 description: ""
 draft: false
-weight: 1
+weight: 4
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. **Transparência:** clareza sobre diagnóstico, etapas e custos.
+2. **Excelência técnica:** atualização constante e planejamento digital.
+3. **Cuidado contínuo:** foco em prevenção e manutenção dos resultados.
