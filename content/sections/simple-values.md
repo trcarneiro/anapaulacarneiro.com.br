@@ -1,10 +1,10 @@
 ---
-title : "Nossos valores"
+title : "Compromissos da clínica"
 description: ""
 draft: false
 weight: 4
 ---
 
-1. **Humanização:** cada paciente é atendido com escuta ativa, respeito e transparência.
-2. **Excelência clínica:** protocolos atualizados e materiais de alta performance para resultados duradouros.
-3. **Prevenção em primeiro lugar:** programas educativos e de manutenção para toda a família.
+1. **Transparência:** clareza sobre diagnóstico, etapas e custos.
+2. **Excelência técnica:** atualização constante e planejamento digital.
+3. **Cuidado contínuo:** foco em prevenção e manutenção dos resultados.

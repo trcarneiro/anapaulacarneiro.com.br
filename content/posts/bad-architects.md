@@ -7,6 +7,7 @@ author: "Dra. Ana Paula Carneiro"
 images: []
 draft: false
 tags: ["prevenção", "check-up", "saude-bucal"]
+slug: "check-up-odontologico-anual"
 ---
 
 Visitar o dentista apenas quando surge dor ou sensibilidade é um hábito que pode custar caro. O check-up odontológico regular permite identificar pequenas alterações antes que elas se transformem em problemas complexos e mais caros de tratar.

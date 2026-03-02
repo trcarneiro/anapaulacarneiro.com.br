@@ -1,16 +1,16 @@
 baseurl = "https://anapaulacarneiro.com.br/"
-title = "Dra. Ana Paula Carneiro | Odontologia Integrada"
+title = "Dra. Ana Paula Carneiro | Clínica Odontológica em Fortaleza"
 author = "Dra. Ana Paula Carneiro"
 googleAnalytics = ""
 defaultContentLanguage = "pt-br"
 language = "pt-BR"
-paginate = 3
+paginate = 6
 
 theme = "hugo-terrassa-theme"
 themesDir = "../.." # Not necessary on production sites
 
 [params]
-    description = "Clínica odontológica em Fortaleza com foco em reabilitação oral, estética e bem-estar do paciente."
+    description = "Clínica odontológica em Fortaleza com foco em implantes, estética dental e prevenção para toda a família."
     favicon = "favicon.ico"
     logo = ""
 
@@ -19,7 +19,7 @@ themesDir = "../.." # Not necessary on production sites
 
 [params.cta] # Call To Action
     show = true
-    cta = "Agende sua consulta"
+    cta = "Agendar avaliação no WhatsApp"
     link = "contato" # Relative URL
 
 [params.separator] # Separators between sections on the home page
@@ -42,19 +42,19 @@ themesDir = "../.." # Not necessary on production sites
     inputMsgName = "message"
     inputMsgLabel = "Como podemos ajudar?"
     inputMsgLength = 750
-    inputSubmitValue = "Enviar mensagem"
+    inputSubmitValue = "Quero agendar"
 
 [params.posts]
     showAuthor = true
     showDate = true
     showTags = true
-    dateFormat = "2 de January de 2006"
+    dateFormat = "02/01/2006"
 
 [params.contact] # Contact info
     email = "contato@anapaulacarneiro.com.br"
     phone = "(85) 3333-2222"
     skype = ""
-    address = "Rua Exemplo, 123 - Aldeota, Fortaleza - CE"
+    address = "Fortaleza - CE"
 
 [params.social]
     twitter = ""
@@ -65,12 +65,17 @@ themesDir = "../.." # Not necessary on production sites
     instagram = "https://www.instagram.com/dra.anapaulacarneiro"
     pinterest = ""
     youtube = ""
-    linkedin = "https://www.linkedin.com/in/anapaulacarneiro"
+    linkedin = ""
     weibo = ""
     mastodon = ""
     tumblr = ""
     flickr = ""
     "500px" = ""
+
+[params.clinic]
+    city = "Fortaleza"
+    region = "CE"
+    whatsapp = "558533332222"
 
 [params.copy] # Copyright
     copy = "© {{ now.Year }} Dra. Ana Paula Carneiro. Todos os direitos reservados."

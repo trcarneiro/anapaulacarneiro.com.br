@@ -7,6 +7,7 @@ author: "Equipe Dra. Ana Paula Carneiro"
 images: []
 draft: false
 tags: ["implantes", "cuidados", "reabilitacao-oral"]
+slug: "cuidados-pos-implante-dentario"
 ---
 
 Recebeu um implante dentário recentemente? As próximas semanas são decisivas para o sucesso do tratamento. Selecionamos as orientações que compartilhamos com os pacientes da clínica para ajudar você a ter uma recuperação tranquila e segura.

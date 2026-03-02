@@ -1,8 +1,8 @@
 ---
-title : "Equipe e estrutura"
+title : "Para quem atendemos"
 description: ""
 draft: false
 weight: 3
 ---
 
-Nossa equipe é formada por especialistas em reabilitação oral, ortodontia, odontopediatria e harmonização orofacial. Trabalhamos em integração com parceiros de periodontia e endodontia para oferecer soluções completas em um só lugar.
+Atendemos adolescentes, adultos e idosos que querem resolver dores, recuperar função mastigatória ou melhorar a estética do sorriso com segurança.

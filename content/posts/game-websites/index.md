@@ -7,6 +7,7 @@ author: "Dra. Ana Paula Carneiro"
 images: ["./images/alinhadores-sorriso.jpg"]
 draft: false
 tags: ["alinhadores", "ortodontia", "estetica"]
+slug: "alinhadores-invisiveis-tratamento"
 ---
 
 Os alinhadores transparentes se tornaram uma alternativa desejada por pacientes que buscam discrição e conforto durante o tratamento ortodôntico. A seguir, respondemos às principais dúvidas que chegam ao consultório.

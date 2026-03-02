@@ -7,6 +7,7 @@ author: "Equipe Odontopediatria"
 images: []
 draft: false
 tags: ["odontopediatria", "prevenção", "pais"]
+slug: "saude-bucal-infantil-habitos"
 ---
 
 A infância é a fase ideal para criar hábitos que acompanharão as crianças por toda a vida. Quando o assunto é saúde bucal, atitudes simples fazem toda a diferença. Confira as recomendações da nossa equipe de odontopediatria.

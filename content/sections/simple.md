@@ -1,8 +1,8 @@
 ---
-title : "Nossa abordagem"
+title : "Nosso método"
 description: ""
 draft: false
 weight: 1
 ---
 
-Oferecemos planejamento odontológico individualizado desde a primeira consulta. Utilizamos exames de imagem digital, fotografias clínicas e escaneamento intraoral para mapear cada detalhe do seu sorriso e garantir previsibilidade nos resultados.
+Planejamento individual para cada paciente: avaliamos saúde bucal, objetivos estéticos e rotina para indicar o tratamento ideal com previsibilidade.
